@@ -83,8 +83,6 @@ The frontend points to the deployed backend by default. To use a local backend, 
 - Md. Sabik Hossen
 - Wasimul Bari Rahat
 
-- Samira Akter
-
 ## 📄 License
 
 Academic project, developed for coursework at East West University.
