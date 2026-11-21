@@ -82,9 +82,7 @@ The frontend points to the deployed backend by default. To use a local backend, 
 
 - Md. Sabik Hossen
 - Wasimul Bari Rahat
-- Md Fahim Hassan Samir
-- Nila Ashma Sara
-- Nafiz Ibna Mahobub
+
 - Samira Akter
 
 ## 📄 License
